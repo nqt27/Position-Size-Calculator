@@ -6,7 +6,7 @@
 ### Cài đặt package PHP
     composer install
 ### Tạo file môi trường
-    cp .env.example .env
+    copy .env.example .env
 ### Chạy migration
     php artisan migrate
 ### Chạy server
